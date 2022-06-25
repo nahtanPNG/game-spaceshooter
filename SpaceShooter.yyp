@@ -1,8 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"spr_polvo","path":"sprites/spr_polvo/spr_polvo.yy",},"order":2,},
     {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},"order":1,},
     {"id":{"name":"anotações","path":"notes/anotações/anotações.yy",},"order":0,},
     {"id":{"name":"spr_nave","path":"sprites/spr_nave/spr_nave.yy",},"order":0,},
+    {"id":{"name":"obj_polvo","path":"objects/obj_polvo/obj_polvo.yy",},"order":2,},
     {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},"order":1,},
     {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
