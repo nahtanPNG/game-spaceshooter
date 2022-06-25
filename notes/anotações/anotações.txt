@@ -20,4 +20,9 @@
 4 - Criando o primeiro inimigo
 	4.1 - Importando as sprites - FEITO
 	4.2 - Criando um objeto - FEITO
-	4.3 - Fazendo ele ir para baixo - FEITO
+	4.3 - Fazendo ele ir para baixo - 
+
+5 - Fazendo o inimigo 01 atirar
+	5.1 - Importando a sprite do tiro - FEITO
+	5.2 - Criando objeto - FEITO
+	5.2 - Fazendo o tiro ir para baixo - FEITO
